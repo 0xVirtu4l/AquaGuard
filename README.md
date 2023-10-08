@@ -1,3 +1,8 @@
+## Project Status
+
+This project is currently in development. Some features may not be fully operational at this stage. We are actively working to enhance the AquaGuard experience and make it a valuable resource for water enthusiasts and conservationists.
+
+
 # AquaGuard
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -62,9 +67,6 @@ AquaGuard features a "Current Location" button that allows you to discover the n
 ![Light Mode](https://github.com/0xVirtu4l/AquaGuard/assets/76711572/3e81c3ee-9e88-49c7-ac3e-a31e67c26329)
 ![Dark Mode](https://github.com/0xVirtu4l/AquaGuard/assets/76711572/b6059eeb-d64a-4473-b952-43ec49ec1044)
 
-## Project Status
-
-This project is currently in development. Some features may not be fully operational at this stage. We are actively working to enhance the AquaGuard experience and make it a valuable resource for water enthusiasts and conservationists.
 
 
 Thank you for your interest in AquaGuard!
