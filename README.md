@@ -6,6 +6,11 @@
 
 
 **AquaGuard** is an innovative project developed for NASA Space Apps 2023. It aims to provide a comprehensive solution for responsible water recreation, focusing on water quality assessment and the protection of endangered species in aquatic ecosystems. This project is still under development, and we welcome contributions and feedback from the community.
+
+## Link to website
+
+- Website: [https://www.aquaguard.site](https://www.aquaguard.site)
+  
 ## Trailer Video
 
 Watch the AquaGuard project trailer to get a quick overview of what we've been working on:
@@ -60,8 +65,5 @@ AquaGuard features a "Current Location" button that allows you to discover the n
 
 This project is currently in development. Some features may not be fully operational at this stage. We are actively working to enhance the AquaGuard experience and make it a valuable resource for water enthusiasts and conservationists.
 
-## Link to website
-
-- Website: [https://www.aquaguard.site](https://www.aquaguard.site)
 
 Thank you for your interest in AquaGuard!
