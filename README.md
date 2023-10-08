@@ -14,13 +14,21 @@ This project is currently in development. Some features may not be fully operati
 
 ## Link to website
 
-- Website: [https://www.aquaguard.site](https://www.aquaguard.site)
+- Website: **[https://www.aquaguard.site](https://www.aquaguard.site)**
   
 ## Trailer Video
 
-Watch the AquaGuard project trailer to get a quick overview of what we've been working on:
+Watch the AquaGuard project trailer to get a quick overview of what we've been working on you can watch it on youtube 
 
 [![AquaGuard Trailer](https://github-production-user-asset-6210df.s3.amazonaws.com/76711572/273422612-ef9514a2-77b3-49d3-96de-df48118bed4a.png)](https://www.youtube.com/watch?v=zkkaj1V4nL8)
+
+**OR**
+
+
+https://github.com/0xVirtu4l/AquaGuard/assets/76711572/4dafa969-1920-4f8d-87b8-98e754274286
+
+
+
 
 ## Project Presentation Slides
 
