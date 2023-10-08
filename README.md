@@ -57,7 +57,8 @@ AquaGuard features a "Current Location" button that allows you to discover the n
 
 5. You can further explore the water quality, aquatic species, and more details related to this specific water area by using AquaGuard's intuitive interface.
 ## Fullscreen Preview
-**Here is a full screen preview of the light & dark mode from the website**
+**Here is a full screen preview of the light & dark mode:**
+
 ![Light Mode](https://github.com/0xVirtu4l/AquaGuard/assets/76711572/3e81c3ee-9e88-49c7-ac3e-a31e67c26329)
 ![Dark Mode](https://github.com/0xVirtu4l/AquaGuard/assets/76711572/b6059eeb-d64a-4473-b952-43ec49ec1044)
 
